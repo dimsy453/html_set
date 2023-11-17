@@ -1,0 +1,60 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  margin: 0;
+  height: 100vh;
+  font-family: Inter;
+}
+form {
+  width: 45%;
+  height: 48%;
+  margin-top: 10px;
+  background-color: white;
+  display: block;
+  align-content: center;
+
+}
+input[type="Firstname"]{
+  width: 30%;
+  height: 28px;
+  margin-left: 20%;
+  font-size: large;
+
+}
+input[type="Lastname"]{
+  width: 35%;
+  height: 28px;
+  margin-left: 10px;
+  font-size: large;
+}
+.login{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.button{
+margin-top: 10%;
+
+
+}
+p{
+  width: 73%;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  text-align: -moz-right;
+  margin-left: 15%;
+  font-size:85%;
+
+}
+
+
+
+
+
+
+
+
+
